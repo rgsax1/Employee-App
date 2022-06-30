@@ -23,6 +23,10 @@ public class Employee {
     @Column(name = "email_id")
     private String emailId;
 
+    public Employee(){
+        
+    }
+
     public Employee(Long id, String firstName, String lastName, String emailId) {
         this.id = id;
         this.firstName = firstName;
