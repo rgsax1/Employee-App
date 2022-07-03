@@ -1,0 +1,45 @@
+
+Employee-Frontend-Angular/.angular/cache/13.3.3/angular-webpack/039d1eaa6f4cf6a70ef3f58c99a747113d29cb21/index.pack
+Employee-Frontend-Angular/.angular/cache/13.3.3/angular-webpack/039d1eaa6f4cf6a70ef3f58c99a747113d29cb21/0.pack
+*.json
+Employee-Frontend-Angular/.angular/cache/13.3.3/babel-webpack/132c8c867b5c2f724c64bf110d85e976.json
+*.cmd
+*.ps1
+Employee-Frontend-Angular/node_modules/.bin/ansi-html
+
+# Created by https://www.toptal.com/developers/gitignore/api/angular
+# Edit at https://www.toptal.com/developers/gitignore?templates=angular
+
+### Angular ###
+## Angular ##
+# compiled output
+dist/
+tmp/
+app/**/*.js
+app/**/*.js.map
+
+# dependencies
+node_modules/
+bower_components/
+
+# IDEs and editors
+.idea/
+
+# misc
+.sass-cache/
+connect.lock/
+coverage/
+libpeerconnection.log/
+npm-debug.log
+testem.log
+typings/
+.angular/
+
+# e2e
+e2e/*.js
+e2e/*.map
+
+# System Files
+.DS_Store/
+
+# End of https://www.toptal.com/developers/gitignore/api/angular
